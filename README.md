@@ -1,1 +1,1 @@
-#Holberton School Zero Day
+#Holberton School
